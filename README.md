@@ -1,5 +1,8 @@
 # University Rankings Data Analysis Report
 
+## Overview
+This project was a collaborative effort for our MIST 4610 course.
+
 This project analyzes global university rankings to explore data design, visual analytics, and structured queries. We built a relational database using SQL and created interactive visualizations in Tableau to turn complex data into actionable knowledge for students, families, and employers.
 
 ## Database Schema
@@ -101,3 +104,11 @@ This visualization shows the relationship between a university's sustainability 
 ## Conclusion
 
 This project showed our team with valuable insight on how global university rankings can be explored through data design, visual analytics, and structured queries. By building a SQL database with defined relationships like Location, University, and RankingScores tables, we gained practical experience in data modeling, foreign key constraints, and schema development. These skills helped us create a data structure for a real-world dataset. In Tableau, we converted complex data into visualizations that highlight regional strengths, academic performance, and employment readiness across thousands of universities. Each visualization showed us patterns and helped us think critically about how students, employers, or families can use data for informed decision-making. We learned how data tools like Tableau can turn university rankings into applicable knowledge, whether it was identifying top-performing countries or highlighting quickly improving institutions. Overall, this project deepened our understanding of how SQL and Tableau work well together in analyzing real-world scenarios and emphasized the importance of data in education, policy, and career planning.
+
+## Project Deliverables & Source
+Below are the project's key deliverables and the source for the raw dataset.
+
+* ➡️ **Tableau Workbook:** `university analysis.twbx`
+* ➡️ **Source Dataset:** [**2026 QS World University Rankings on Kaggle**](https://www.kaggle.com/datasets/akashbommidi/2026-qs-world-university-rankings?resource=download)
+
+
